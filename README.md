@@ -13,10 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorkummell1&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=victorkummell)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=victorkummell&theme=vue&response=true&border=true&time=true&icon=radio"/></a>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=victorkummell1&icon=5&color=12)](https://visitcount.itsvg.in)
