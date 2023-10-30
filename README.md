@@ -16,12 +16,12 @@ class Skills extends Desenvolvedor {
 ```
 
 <p align="left">
-  <a href="#" alt="victorkummell@gmail.com">
+  <a href="mailto:victorkummell@gmail.com" alt="victorkummell@gmail.com">
   <img src="https://img.shields.io/badge/-victorkummell@gmail.com-6366f1?style=flat-square&labelColor=6366f1&logo=gmail&logoColor=white&link=mailto:victorkummell@gmail.com" /></a>
 
-  <a href="#" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/victor-kummel-a996a2227" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-6366f1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-kummel-a996a2227/" /></a>
 
-  <a href="#" alt="Website">
+  <a href="https://victorkummell.com" alt="Website">
   <img src="https://img.shields.io/badge/-Portfolio-6366f1?style=flat-square&labelColor=6366f1&logo=buymeacoffee&logoColor=white&link=https://victorkummell.com"/></a>
 </p>
